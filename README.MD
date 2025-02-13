@@ -16,3 +16,18 @@ Mapty is a web application that allows users to map their workouts. Users can lo
 - JavaScript
 - Leaflet.js (for map functionality)
 - Parcel (for bundling)
+
+## Applied OOP and Modern JavaScript
+
+This project makes extensive use of Object-Oriented Programming (OOP) principles and modern JavaScript features, including:
+
+- Classes and inheritance
+- Private fields and methods
+- ES6 modules
+- Promises and async/await
+- Template literals
+- Arrow functions
+
+## Live Demo
+
+Check out the live demo of the application [here](https://mapty-m7med.netlify.app/).
