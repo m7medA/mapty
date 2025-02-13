@@ -30,4 +30,4 @@ This project makes extensive use of Object-Oriented Programming (OOP) principles
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://mapty-m7med.netlify.app/).
+[Mapty 🗺️](https://mapty-m7med.netlify.app/).
